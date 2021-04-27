@@ -1,5 +1,5 @@
 #include<iostream>
 int main(){
-	std::cout<<"Hello ZSŁ!";
+	std::cout<<"Hello Łączność!";
 	return 0;
 }
